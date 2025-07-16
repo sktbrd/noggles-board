@@ -1,0 +1,13 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skateGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4ecdc4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#skateGrad1)" />
+  <circle cx="60" cy="160" r="15" fill="#333" opacity="0.8"/>
+  <circle cx="240" cy="160" r="15" fill="#333" opacity="0.8"/>
+  <rect x="50" y="150" width="200" height="8" rx="4" fill="#ffd93d"/>
+  <text x="150" y="100" text-anchor="middle" fill="white" font-size="24" font-weight="bold" font-family="Arial">SKATE</text>
+</svg>
